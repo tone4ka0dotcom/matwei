@@ -11,3 +11,4 @@ class My_class():
 
 a = My_class(5,8)
 a.coordinates()
+print(1)
